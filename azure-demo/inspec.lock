@@ -1,0 +1,8 @@
+---
+lockfile_version: 1
+depends:
+- name: azure
+  resolved_source:
+    url: https://github.com/chef/inspec-azure/archive/master.tar.gz
+    sha256: 8d13fe6c212b4637e7044acc48f04aa03fa7dd728a175f5acc755a67d213ee69
+  version_constraints: ">= 0"
